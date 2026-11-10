@@ -1,0 +1,11 @@
+Tue Nov 10 10:06:27 UTC 2026
+Linux 6.8.0-147-generic x86_64
+Ubuntu 24.04.5 LTS
+
+OpenSIMH (4. sürüm için): 87eb7d5e96f9ce0ee6ac183e20160e5c486b0712 Tue Sep 22 12:24:39 2026 -0400
+
+Klasik SIMH (1. sürüm için): simhv312-5.zip 561524723b5979c4
+unix-jun72 (c3x04 çatalı): 97652776496e9e5bdaa58a7e3460c2172570c37e Tue Sep 29 14:17:06 2015 +0530
+Utah bandı: ec0a5437332171121a707f730a10e4eedaaa975ec2bb43cc617d7c3ebbfb70f2  unix_v4.tap
+XTerm(390)
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
